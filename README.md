@@ -1,2 +1,4 @@
 # Swiggy
 Excel project with dashboard , charts and KPIs
+Swiggy Food Delivery & Customer Analytics – Microsoft Excel
+Developed an interactive **Swiggy Food Delivery Analytics Dashboard** by integrating three separate datasets — **Customer, Order, and Restaurant**. Performed **data cleaning, transformation, and merging operations** using common columns to combine the datasets into a unified analytical dataset. Created **calculated columns, KPIs, PivotTables, and interactive charts** to analyze order trends, revenue, customer behavior, restaurant performance, cuisines, payment methods, discounts, and delivery efficiency. The final dashboard transformed multiple raw datasets into meaningful visual insights, providing a comprehensive view of **customer activity, restaurant performance, and overall food delivery operations**.
